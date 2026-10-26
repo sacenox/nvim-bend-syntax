@@ -2,6 +2,8 @@
 
 Syntax highlighting and filetype detection for [Bend](https://github.com/bendlang/bend) (`.bend`) in Neovim.
 
+Keywords: bend, bend lang, bendlang, neovim, nvim, vim plugin, syntax highlighting, filetype, `.bend` files.
+
 ## Install
 
 lazy.nvim:
