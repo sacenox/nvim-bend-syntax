@@ -7,13 +7,13 @@ Syntax highlighting and filetype detection for [Bend](https://github.com/bendlan
 lazy.nvim:
 
 ```lua
-{ 'xonecas/nvim-bend-syntax', ft = 'bend' }
+{ 'sacenox/nvim-bend-syntax', ft = 'bend' }
 ```
 
 vim.pack (Neovim 0.12+):
 
 ```lua
-vim.pack.add({ { src = 'https://github.com/xonecas/nvim-bend-syntax' } })
+vim.pack.add({ { src = 'https://github.com/sacenox/nvim-bend-syntax' } })
 ```
 
 No setup needed.
